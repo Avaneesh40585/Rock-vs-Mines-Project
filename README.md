@@ -1,2 +1,2 @@
 # Rock vs. Mine Prediction
-The "Rock vs. Mine Prediction" project focuses on predicting whether an underwater object is a rock or a mine using machine learning techniques. By leveraging popular Python libraries such as NumPy, Pandas, Scikit-learn (sklearn), and logistic regression, this project provides an end-to-end solution for accurate classification.
+The "Rock vs. Mine Prediction" project focuses on predicting whether an underwater object is a rock or a mine using machine learning techniques. We will be using logistic regression in order to classify the object in this project.
